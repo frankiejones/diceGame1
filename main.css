@@ -1,0 +1,13 @@
+* {
+text-align: center;
+
+}
+
+body {
+    background-image: linear-gradient(to right, yellow , red);
+}
+
+#button {
+    background-color: yellow;
+}
+
